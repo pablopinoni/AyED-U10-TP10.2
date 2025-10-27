@@ -1,7 +1,7 @@
 /*Realice un programa que calcule la suma de dos
  matrices dinámicas.*/
 #include <iostream>
-#include "suma_matrices_din.h"
+#include "matrices_utils.h"
 int main() {
     int filas_A, columnas_A;
     int filas_B, columnas_B;
